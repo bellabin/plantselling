@@ -3,5 +3,7 @@
     <string name="plant_desc">Cactus White is Versatile herb with a wonderfully....</string>
     <string name="plant_desc2">Cactus White is Versatile herb with a wonderfully.Cactus White is Versatile herb
         with a wonderfully.Cactus White is Versatile herb with a wonderfully .Cactus White is Versatile herb with a wonderfully...</string>
-
+    <string name="undenline"> <u>Edit account</u>.</string>
+    <string name="undenline1"> <u>Edit customer</u>.</string>
+    <string name="undenline2"> <u>Add bill</u>.</string>
 </resources>
